@@ -1,0 +1,33 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+body{
+    text-align: center;
+    font-family: 'Pompiere';
+}
+img{
+    height: 300px;
+}
+section{
+    background-color: antiquewhite;
+    border:solid 10px rgb(75, 35, 35);
+    padding-bottom: 50px;
+}
