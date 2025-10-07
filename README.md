@@ -20,3 +20,10 @@ I completed the challenge: 5
 I feel good about my code: 4
 I'm not sure if my constructors are setup cleanly...
 ```
+
+
+This project allows a user to enter an ingredient in the input, and in return get a list of possible recipes they could recreate.
+
+There are images and the name of the meal, but no recipe or list of other ingredients needed unfortunately.
+
+This was created using an API to get the data for the meals, photos, and ingredient list.
