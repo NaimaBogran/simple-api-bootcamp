@@ -1,9 +1,18 @@
 # 📊 Project: Simple API 1
+# Recipe Finder
 
-### Goal: Display data returned from an api
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-This project allows a user to enter an ingredient in the input, and in return get a list of possible recipes they could recreate.
+**🎮 Live Demo:** Found in About section
 
-There are images and the name of the meal, but no recipe or list of other ingredients needed unfortunately.
+---
 
-This was created using an API to get the data for the meals, photos, and ingredient list.
+## ✨ Features
+
+* **Responsive Design:** A clean, mobile-first design that looks great on any device, from phones to desktops.
+
+## 🛠️ Tech Stack
+
+* **Frontend:** HTML5, CSS3, Vanilla JavaScript (ES6+)
+* **Core Concepts:** DOM Manipulation, Advanced Event Handling (Event Delegation), and Client-Side State Management.
+* **Deployment:** Git Pages
